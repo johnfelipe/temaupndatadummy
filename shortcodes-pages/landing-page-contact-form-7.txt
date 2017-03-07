@@ -1,0 +1,9 @@
+<p class="half">[text* name placeholder "Name"] </p>
+
+<p class="half">[text* last-name placeholder "Last name"] </p>
+
+<p>[email* email placeholder "E-mail"] </p>
+
+<p>[text phone placeholder "Phone"] </p>
+
+<p>[submit "Order now"]</p>
